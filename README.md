@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-
-### About Me
 I'm **Shuai Tang**, a Master's student at **Sun Yat-sen University (SYSU)**.
 
 - 🔭 I’m currently researching **UAV autonomous navigation, perception and control**
