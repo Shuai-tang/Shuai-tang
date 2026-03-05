@@ -4,10 +4,15 @@
 I'm **Shuai Tang**, a Master's student at **Sun Yat-sen University (SYSU)**.
 
 🔭 I’m currently working on:
+
 Reinforcement Learning driven MPPI, MPC-based obstacle avoidance, trajectory prediction
+
 🎯 Research interests:
+
 UAV autonomous navigation, perception and control, autonomous robotics, computer vision
+
 📫 Contact:
+
 Email: 3433735880@qq.com
 
 
