@@ -14,7 +14,3 @@ UAV autonomous navigation, perception and control, autonomous robotics, computer
 📫 Contact:
 
 Email: 3433735880@qq.com
-
-
-### Welcome
-I'm always open to academic exchanges, technical discussions, and potential collaborations related to UAV autonomous systems.  🛩️
