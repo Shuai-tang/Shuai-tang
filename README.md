@@ -1,12 +1,7 @@
 ## Hi there 👋
-[![Python](https://img.shields.io/badge/python-3.10-4B8BBE.svg)](https://docs.python.org/3/whatsnew/3.10.html) [![ROS1](https://img.shields.io/badge/ROS1-Noetic-green.svg)](https://wiki.ros.org/noetic) [![ROS2](https://img.shields.io/badge/ROS2-Humble-F39C12.svg)](https://docs.ros.org/en/humble/index.html) [![IsaacSim](https://img.shields.io/badge/IsaacSim-NVIDIA-C0392B.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html) [![Linux platform](https://img.shields.io/badge/platform-Ubuntu-27AE60.svg)](https://releases.ubuntu.com/22.04/)
 
 I'm **Shuai Tang**, a Master's student at **Sun Yat-sen University (SYSU)**.
 
-🎯 Research interests:
+Research interests: UAV autonomous navigation, perception and control
 
-UAV autonomous navigation, perception and control
-
-📫 Contact:
-
-Email: 3433735880@qq.com
+Contact: Email: 3433735880@qq.com
